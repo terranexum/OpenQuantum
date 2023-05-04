@@ -79,3 +79,13 @@ In an analogue of a quantum computer based on entanglement, two waves with a cor
 In an analogue of a quantum computer based on interference, constructive or destructive interference patterns could arise between two or more waves, just as in quantum systems. By manipulating the phases and amplitudes of these waves, it would be possible to perform computations based on interference patterns.
 
 While analog computers can perform certain computations faster and more accurately than digital computers, they have limitations in terms of their precision, scalability, and complexity. Additionally, the principles of superposition, entanglement, and interference in classical systems are fundamentally different from their quantum counterparts, so an analogue of a quantum computer based on these principles would not have the same computational power as a true quantum computer.
+
+## Wave Computers - Quantum-Like Computing at Room Temperature, with Low Energy and Low Cost?
+
+An analogue of a quantum computer based on superposition, entanglement, and interference would likely require a combination of electronic circuitry and wave generation and manipulation techniques.
+
+To implement the superposition of qubits in an analogue quantum computer, wave generators could be used to create sound waves of different frequencies, which could be combined using Fourier analysis to produce a wave that represents the superposition of many different quantum states. Electronic circuits would be needed to manipulate the amplitudes and phases of these waves, which would correspond to the manipulation of qubits in a quantum computer.
+
+For entanglement, two waves with a correlation function describing how the amplitudes of the waves are related to each other at different positions and times could be used to represent entangled qubits. Electronic circuits could be used to manipulate one wave and measure the behavior of the other wave, which would correspond to the manipulation and measurement of entangled qubits in a quantum computer.
+
+In terms of interference, constructive or destructive interference patterns could arise between two or more waves, just as in quantum systems. By manipulating the phases and amplitudes of these waves using electronic circuits, it would be possible to perform computations based on interference patterns.
