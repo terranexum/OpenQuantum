@@ -28,7 +28,9 @@ Quantum superposition is a fundamental principle of quantum mechanics that allow
 
 In addition to superposition, quantum computers rely on the principles of entanglement and quantum interference to perform computations. Entanglement allows multiple qubits to become correlated in ways that cannot be explained by classical physics, while quantum interference allows quantum states to interact in ways that amplify certain outcomes and suppress others. Together, these principles enable quantum computers to perform certain types of calculations much faster than classical computers.
 
-## Analogues to Quantum Superposition
+## Analogues to Quantum Superposition, Entanglement, and Interference
+
+### Analogues to Quantum Superposition
 
 There are other cases in nature where objects or waves can exist in multiple states simultaneously.
 
@@ -36,7 +38,7 @@ There are other cases in nature where objects or waves can exist in multiple sta
 
 2) Superposition from classical physics: waves can also exhibit superposition, where multiple waves can coexist and interfere with each other. For example, when two sound waves of different frequencies interact, they can create a new wave that exhibits the characteristics of both original waves.
 
-## Analogues to Quantum Entanglement
+### Analogues to Quantum Entanglement
 
 Entanglement occurs when the quantum states of two or more qubits become correlated in such a way that the state of one qubit is dependent on the state of the other qubit, even when they are far apart. This is called a nonlocal correlation, not explainable by any classical physics mechanisms.
 
@@ -46,7 +48,7 @@ This correlation can be measured by performing a joint measurement of the entang
 
 Entanglement plays a key role in quantum computing, as it allows multiple qubits to work together to perform computations that are impossible to perform with classical bits. This cooperation of multiple qubits through some kind of inter-qubit connectivity is the value that quantum entanglement lends to problems that would otherwise not be solvable in a reasonable time.
 
-### Classical Correlation Functions between Two Objects or Waves
+#### Classical Correlation Functions between Two Objects or Waves
 
 Two objects or waves can achieve correlated states that are measurable with some probability. For example, consider two classical waves that are correlated in a certain way. One way to measure this correlation is to calculate the correlation function, a mathematical function that describes how the amplitudes of the waves are related to each other at different positions and times. The correlation function is calculated by taking the product of the wave amplitudes at different positions and times and averaging over many measurements. The result of this calculation is a measure of the correlation between the two waves, which can be used to predict the behavior of one wave based on the behavior of the other wave.
 
@@ -56,7 +58,7 @@ If quantum correlations were local instead of nonlocal, quantum computers would 
 
 Quantum computers rely on entanglement, which is a type of nonlocal correlation, to perform certain computational tasks more efficiently than classical computers. For example, Shor's algorithm, which is used to factor large numbers, relies on entanglement to search an exponentially large solution space in a much faster time than classical algorithms. However, there are quantum algorithms that do not rely on entanglement, such as Grover's algorithm, which uses interference and superposition to achieve computational speedup.
 
-## Analogues to Quantum Interference
+### Analogues to Quantum Interference
 
 In quantum interference, quantum waves can combine and interfere with each other in a way that can lead to constructive or destructive interference patterns. This interference is a purely quantum effect that arises from the wave-like behavior of particles and it is not possible in classical systems composed of objects and waves.
 
@@ -66,4 +68,14 @@ However, the interference in classical systems is fundamentally different from q
 
 Another important difference between quantum and classical interference is that quantum interference can result in entanglement. For example, if two entangled particles are sent through a double-slit experiment, their interference patterns will be correlated, even if they are far apart. This entanglement is a purely quantum effect that has no classical analogue.
 
+## Analog Computers (vs. Digital)
 
+Analog computers use physical quantities, such as voltages or currents, to represent variables in a mathematical equation, and they manipulate these physical quantities using analog circuitry to solve the equation. Analog computers can perform certain computations faster and more accurately than digital computers because they do not need to convert between digital and analog signals.
+
+In an analogue of a quantum computer based on superposition, sound waves of different frequencies could be used to represent quantum bits or qubits. By combining these waves using Fourier analysis, it would be possible to create a wave that represents the superposition of many different quantum states.
+
+In an analogue of a quantum computer based on entanglement, two waves with a correlation function describing how the amplitudes of the waves are related to each other at different positions and times could be used to represent entangled qubits. By manipulating one wave, it would be possible to predict the behavior of the other wave, just as in entangled quantum systems.
+
+In an analogue of a quantum computer based on interference, constructive or destructive interference patterns could arise between two or more waves, just as in quantum systems. By manipulating the phases and amplitudes of these waves, it would be possible to perform computations based on interference patterns.
+
+While analog computers can perform certain computations faster and more accurately than digital computers, they have limitations in terms of their precision, scalability, and complexity. Additionally, the principles of superposition, entanglement, and interference in classical systems are fundamentally different from their quantum counterparts, so an analogue of a quantum computer based on these principles would not have the same computational power as a true quantum computer.
