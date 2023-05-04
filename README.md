@@ -7,9 +7,9 @@ If this is of value to you, please consider supporting our work through [Open Co
 
 ![image](https://user-images.githubusercontent.com/20586685/236310808-50d7e4a6-003c-4f97-894c-f58a3fc84990.png)
 
-[Ultra-cold matter is no longer necessary to achieve quantum states.](https://discord.com/channels/1102681641060675705/1103569219943137340/1103711380567248967) 
+[Ultra-cold matter is no longer necessary to achieve quantum states. Click here to read the article from above, about University of Chicago's work](https://scitechdaily.com/natures-quantum-secret-link-discovered-between-photosynthesis-and-fifth-state-of-matter/) 
 
-[Link to their journal article](https://journals.aps.org/prxenergy/abstract/10.1103/PRXEnergy.2.023002)
+[Link to the journal article](https://journals.aps.org/prxenergy/abstract/10.1103/PRXEnergy.2.023002)
 
 ## Our Wave Computer Approach 
 
