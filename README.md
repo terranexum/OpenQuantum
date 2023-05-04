@@ -44,4 +44,14 @@ To entangle two qubits, first they must be in a superposition of states. Entangl
 
 This correlation can be measured by performing a joint measurement of the entangled qubits. This measurement can reveal the degree of correlation between the qubits, and can provide information about the state of one qubit based on the state of the other qubit. However, because the state of each qubit is not determined until it is measured, the results of these measurements are probabilistic.
 
-Entanglement plays a key role in quantum computing, as it allows multiple qubits to work together to perform computations that are impossible to perform with classical bits. 
+Entanglement plays a key role in quantum computing, as it allows multiple qubits to work together to perform computations that are impossible to perform with classical bits. This cooperation of multiple qubits through some kind of inter-qubit connectivity is the value that quantum entanglement lends to problems that would otherwise not be solvable in a reasonable time.
+
+### Classical Correlation Functions between Two Objects or Waves
+
+Two objects or waves can achieve correlated states that are measurable with some probability. For example, consider two classical waves that are correlated in a certain way. One way to measure this correlation is to calculate the correlation function, a mathematical function that describes how the amplitudes of the waves are related to each other at different positions and times. The correlation function is calculated by taking the product of the wave amplitudes at different positions and times and averaging over many measurements. The result of this calculation is a measure of the correlation between the two waves, which can be used to predict the behavior of one wave based on the behavior of the other wave.
+
+Similarly, in quantum mechanics, correlation functions can also be used to measure the correlation between quantum states. In this case, the correlation function is calculated using the probability amplitudes of the quantum states, and it describes the statistical relationship between the quantum states at different times and locations.
+
+If quantum correlations were local instead of nonlocal, quantum computers would still be able to operate, but they would not have the same computational power as they do with nonlocal correlations.
+
+Quantum computers rely on entanglement, which is a type of nonlocal correlation, to perform certain computational tasks more efficiently than classical computers. For example, Shor's algorithm, which is used to factor large numbers, relies on entanglement to search an exponentially large solution space in a much faster time than classical algorithms. However, there are quantum algorithms that do not rely on entanglement, such as Grover's algorithm, which uses interference and superposition to achieve computational speedup.
