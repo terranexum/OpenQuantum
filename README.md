@@ -1,6 +1,8 @@
 # OpenQuantum
 How we might make quantum computing open and accessible - the ultimate in open hardware to solve the ultimate in difficult problems
 
+If this is of value to you, please consider supporting our work through [Open Collective](https://opencollective.com/terranexum/projects/openquantum). 
+
 ## Arriving at the Wave Computer
 
 There are three quantum properties that quantum computers can make use of: superposition, entanglement, and interference. We sought to find reasonable enough analogues for these in classical systems that could be assembled together to form a "wave computer" - named so because it may be the behavior and control of waves that may make it possible for a low energy, low cost, computational device to exist at room temperature. 
