@@ -35,3 +35,13 @@ There are other cases in nature where objects or waves can exist in multiple sta
 1) Wave-particle duality from quantum mechanics: particles such as electrons and photons can exhibit both wave-like and particle-like behavior depending on the type of experiment being performed. In certain experiments, these particles can exist in multiple states simultaneously, just like qubits in a quantum computer.
 
 2) Superposition from classical physics: waves can also exhibit superposition, where multiple waves can coexist and interfere with each other. For example, when two sound waves of different frequencies interact, they can create a new wave that exhibits the characteristics of both original waves.
+
+## Analogues to Quantum Entanglement
+
+Entanglement occurs when the quantum states of two or more qubits become correlated in such a way that the state of one qubit is dependent on the state of the other qubit, even when they are far apart. This is called a nonlocal correlation, not explainable by any classical physics mechanisms.
+
+To entangle two qubits, first they must be in a superposition of states. Entanglement then results in their individual states becoming correlated, so that if the state of one qubit was measured, the state of the other qubit will be known with a certain probability. Either qubit's state is not possible to know until it is measured, and once measured, this will affect the state of the other qubit, regardless of distance.
+
+This correlation can be measured by performing a joint measurement of the entangled qubits. This measurement can reveal the degree of correlation between the qubits, and can provide information about the state of one qubit based on the state of the other qubit. However, because the state of each qubit is not determined until it is measured, the results of these measurements are probabilistic.
+
+Entanglement plays a key role in quantum computing, as it allows multiple qubits to work together to perform computations that are impossible to perform with classical bits. 
