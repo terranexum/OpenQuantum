@@ -7,7 +7,7 @@ There are three quantum properties that quantum computers can make use of: super
 
 Whether a wave computer could be built to achieve the high qubit densities and problem-solving capabilities needed to reach quantum advantage remains a question. However, today we can fabricate circuits to create constantly changing phased arrays of focused waves much easier than fabricating the control electronics for qubits in quantum computers. Thus, this may be a worthy undertaking for those with open hardware experience.
 
-## Current Requirements for a Quantum Computer
+## Current Requirements for Quantum Computers
 
 The [essential hardware components of a quantum computer](https://nap.nationalacademies.org/read/25196/chapter/7) and its design constraints can be summarized as follows:
 
