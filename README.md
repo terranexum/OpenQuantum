@@ -1,2 +1,23 @@
 # OpenQuantum
 How we might make quantum computing open and accessible - the ultimate in open hardware to solve the ultimate in difficult problems
+
+## Requirements for a Quantum Computer
+
+The [essential hardware components of a quantum computer](https://nap.nationalacademies.org/read/25196/chapter/7) and its design constraints can be summarized as follows:
+
+Qubits: the fundamental building blocks of a quantum computer. They must be able to maintain long coherence times to avoid errors. Currently, the most promising qubit technologies are superconducting qubits and trapped ions.
+
+Control electronics: required to manipulate the qubits and perform quantum operations. These electronics must be able to generate and control precise microwave and radiofrequency signals.
+
+Cryogenic infrastructure: Qubits must be operated at extremely low temperatures, typically around 10 millikelvin. This requires sophisticated cryogenic infrastructure to maintain a stable and cold environment.
+
+Readout electronics: To extract the results of a quantum computation, the state of each qubit must be measured. This requires highly sensitive readout electronics capable of distinguishing small differences in the qubit state.
+
+Interconnects: In larger quantum computers, it is necessary to connect multiple qubits together to perform more complex computations. However, quantum information is fragile and can be easily lost, so interconnects must be carefully designed to avoid introducing errors.
+
+## Constraints on Quantum Computer Design
+
+1) There is a strong need to maintain long coherence times, which requires careful attention to materials, design, and operating conditions. 
+2) The control electronics and readout infrastructure must be highly precise to manipulate and measure qubits accurately. 
+
+These constraints make the development of a large-scale quantum computer both highly challenging and interdisciplinary.
