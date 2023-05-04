@@ -1,10 +1,11 @@
 # OpenQuantum
 How we might make quantum computing open and accessible - the ultimate in open hardware to solve the ultimate in difficult problems
 
-## Summary
-Below, we sought to examine the requirements for quantum computing, which are based on three elements (quantum superposition, entanglement, and interference). From this understanding, we then sought to find reasonable enough analogues for these in classical systems. These analogues can be assembled together to form a "wave computer" - named so because it may be the behavior and control of waves that may make it possible for a low energy, low cost, quantum-like computer to exist at room temperature. 
+## Arriving at the Wave Computer
 
-Today we can fabricate circuits to create constantly changing phased arrays of focused waves much easier than fabricating the control electronics for qubits in quantum computers. Thus, this may be a worthy undertaking for those with open hardware experience.
+There are three quantum properties that quantum computers can make use of: superposition, entanglement, and interference. We sought to find reasonable enough analogues for these in classical systems that could be assembled together to form a "wave computer" - named so because it may be the behavior and control of waves that may make it possible for a low energy, low cost, computational device to exist at room temperature. 
+
+Whether a wave computer could be built to achieve the high qubit densities and problem-solving capabilities needed to reach quantum advantage remains a question. However, today we can fabricate circuits to create constantly changing phased arrays of focused waves much easier than fabricating the control electronics for qubits in quantum computers. Thus, this may be a worthy undertaking for those with open hardware experience.
 
 ## Current Requirements for a Quantum Computer
 
