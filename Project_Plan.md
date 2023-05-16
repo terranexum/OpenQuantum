@@ -1,9 +1,13 @@
 # Project Plan: Quantum Computing System Development
 
 Project Charter
+
 Project Title: Quantum Computing System Development
+
 Project Manager: Dahl Winters
+
 Project Start Date: June 1, 2023
+
 Project End Date: August 31, 2023
 
 ## Project Objectives:
