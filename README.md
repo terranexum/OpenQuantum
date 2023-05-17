@@ -8,7 +8,7 @@ Apparently there are quantum states accessible in every plant leaf, in what are 
 
 If the following work is of value to you, please consider supporting our work or joining as a Core Contributor through [Open Collective](https://opencollective.com/terranexum/projects/openquantum). You can find our [Project Plan](https://github.com/terranexum/OpenQuantum/blob/main/Project_Plan.md) in this repo.
 
-Our goal is for our Core Contributors to each earn an equal share of 50% of the proceeds we receive from OpenEnergy products that get to market to get emissions reduced. Sustainability is not just for the planet, it has to be for people too.
+Our goal is for our Core Contributors to each earn an equal share of 50% of the proceeds we receive from OpenQuantum devices that get to market.
 
 ## Project Scope
 ![TerraNexum - Business Flow Model - OpenQuantum](https://github.com/terranexum/OpenQuantum/assets/20586685/13550adf-3cb5-4747-811e-95e3ba77139e)
