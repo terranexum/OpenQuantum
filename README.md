@@ -1,13 +1,14 @@
 # OpenQuantum
-Low-cost, low-energy, room-temp quantum computing, made open and accessible. Let's get it developed.
-
-If this is of value to you, please consider supporting our work through [Open Collective](https://opencollective.com/terranexum/projects/openquantum). 
-
-## Exciton Condensates - Quantum States in Every Plant Leaf
 
 [Ultra-cold matter is no longer necessary to achieve quantum states. Click here to read the article from above, about University of Chicago's work](https://scitechdaily.com/natures-quantum-secret-link-discovered-between-photosynthesis-and-fifth-state-of-matter/) 
 
 [Link to the journal article](https://journals.aps.org/prxenergy/abstract/10.1103/PRXEnergy.2.023002)
+
+Apparently there are quantum states accessible in every plant leaf, in what are called exciton condensates. Which means that low-cost, low-energy, room-temp quantum computing appears to be possible. We want to make that technology open and accessible, to help us solve a wide range of optimization and other problems, not the least of which would help our work under our [OpenQGO](https://github.com/terranexum/OpenQGO) project.
+
+If the following work is of value to you, please consider supporting our work or joining as a Core Contributor through [Open Collective](https://opencollective.com/terranexum/projects/openquantum). 
+
+Our goal is for our Core Contributors to each earn an equal share of 50% of the proceeds we receive from OpenEnergy products that get to market to get emissions reduced. Sustainability is not just for the planet, it has to be for people too.
 
 ## Project Scope
 ![TerraNexum - Business Flow Model - OpenQuantum](https://github.com/terranexum/OpenQuantum/assets/20586685/13550adf-3cb5-4747-811e-95e3ba77139e)
